@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="google-adsense-account" content="ca-pub-2744653723561978">
+        <link rel="stylesheet" href="style14.css">
+        <title>Companie de IT</title>
+    </head>
+    <body>
+        <!-- Start header section -->
+        <header>
+            <div class="container">
+                <div class="logo">
+                    <a href="#hero">Vortex Interactive Company</a>
+                </div>
+                <button id="navToggleBtn" class="btn-toggle">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+
+                <nav class="navigation active">
+                    <ul class="nav-items">
+                        <li class="nav-item">
+                            <a href="#services" class="nav-link">Servicii</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#projects" class="nav-link">Proiecte</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#team" class="nav-link">Echipa</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#contact" class="nav-link">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <!-- End header section -->
+
+        <!-- Start main section -->
+        <main>
+               <!-- Start hero section -->
+            <section class="hero" id="hero">
+                <div class="hero-overlay">
+                    <div class="container">
+                        <div class="hero-content">
+                            <h1>Te ajutam sa iti muti afacerea in online</h1>
+                            <p>Daca ai o afacere locala si n-ai aplicatie web apeleaza la noi, Vortex Interactive Company, iar noi o sa facem ca vanzarile tale sa creasca printr-o aplicatie web.</p>
+                            <a href="#contact" class="btn-primary">Vreau oferta</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- End hero section -->
+
+            <!-- Start services section -->
+            <section class="services" id="services">
+                <h2 class="section-title">Servicii</h2>
+                <p class="section-subtitle">Mai jos va prezentam abilitatile pe care noi le avem si de ce suntem priceputi pentru acestea. 
+                </p>
+
+                <div class="container">
+                    <div class="service-card">
+                        <h3 class="service-title">Mobile Development</h3>
+                        <div class="service-description">
+                            In sectiunea de dezvoltare mobila, avem abilitati avansate in limbaje de programare precum Java, Kotlin, Swift si React Native. De asemenea, suntem capabili sa dezvoltam aplicatii mobile pentru platforme precum Android si iOS, sa integram functionalitati complexe precum GPS, notificari push si baze de date, si sa opti performanta aplicatiilor pentru a oferi o experienta utilizatorilor cat mai buna.Suntem recunoscuți pentru abilitățile noastre remarcabile în dezvoltarea de aplicații mobile datorită experienței noastre extinse în proiectarea și implementarea soluțiilor mobile inovatoare. Echipa noastră de dezvoltatori mobile are expertiză în utilizarea celor mai recente tehnologii și cadre de lucru pentru a crea aplicații mobile de înaltă calitate, care sunt atât funcționale, cât și ușor de utilizat.
+                        </div>
+                    </div>
+                    <div class="service-card">
+                        <h3 class="service-title">Graphic Design</h3>
+                        <div class="service-description">
+                            Suntem buni în domeniul designului grafic datorită capacității noastre de a combina creativitatea cu expertiza tehnică pentru a crea produse vizuale atractive și eficiente. Echipa noastră de designeri grafici are o vastă experiență în utilizarea instrumentelor și tehnologiilor de ultimă generație pentru a realiza proiecte de calitate superioară. Ne concentrăm pe nevoile și obiectivele clienților noștri, oferind soluții personalizate și inovatoare care să se ridice la standardele lor ridicate. Cu o abordare atentă la detalii și o pasiune pentru design, suntem dedicați să livrăm rezultate remarcabile și să depășim așteptările clienților noștri în domeniul designului grafic.
+                        </div>
+                    </div>
+                    <div class="service-card">
+                        <h3 class="service-title">SEO</h3>
+                        <div class="service-description">
+                            Suntem specializați în optimizarea motoarelor de căutare (SEO) datorită expertizei noastre în analiza și implementarea strategiilor eficiente pentru a crește vizibilitatea online a clienților noștri. Echipa noastră de specialiști SEO are cunoștințe profunde în domeniul algoritmilor de căutare și înțelege cum să optimizeze conținutul și structura unui site web pentru a obține clasări mai bune în rezultatele motoarelor de căutare. Ne adaptăm continuu la schimbările din industrie și la actualizările algoritmilor pentru a asigura că strategiile noastre sunt la zi și eficiente. Prin abordarea noastră analitică și orientată către rezultate, suntem dedicați să ajutăm clienții noștri să atingă obiectivele lor de marketing online și să-și maximizeze potențialul de vizibilitate și trafic pe internet.
+                        </div>
+                    </div>
+                    <div class="service-card">
+                        <h3 class="service-title">Online Marketing</h3>
+                        <div class="service-description">
+                            Suntem specializați în marketingul online datorită abordării noastre comprehensive și personalizate pentru a ajuta clienții să-și atingă obiectivele de marketing digital. Echipa noastră de specialiști în marketing online are o vastă experiență în utilizarea diverselor canale și tactici digitale pentru a crește conștientizarea brandului, a genera leads și a stimula vânzările. Ne adaptăm continuu la schimbările din mediul online și la tendințele din industrie pentru a dezvolta strategii eficiente și inovatoare. Prin analiza datelor și monitorizarea rezultatelor, suntem dedicați să optimizăm campaniile noastre pentru a obține cele mai bune rezultate posibile pentru clienții noștri. Cu o abordare orientată către performanță și o pasiune pentru inovație, suntem pregătiți să fim partenerul tău de încredere în domeniul marketingului online.
+                        </div>  
+                    </div>
+                    <div class="service-card">
+                        <h3 class="service-title">Web Development</h3>
+                        <div class="service-description">
+                            Suntem recunoscuți pentru abilitățile noastre remarcabile în dezvoltarea web datorită echipei noastre de programatori talentați și creativi. Avem o vastă experiență în proiectarea și implementarea site-urilor web personalizate, adaptate nevoilor și obiectivelor specifice ale fiecărui client. Folosim cele mai recente tehnologii și standarde de programare pentru a crea site-uri web responsive, rapide și ușor de utilizat. Echipa noastră este dedicată să ofere soluții inovatoare și scalabile, care să ofere o experiență online de calitate superioară pentru utilizatorii finali. Ne străduim să livrăm proiecte web de înaltă calitate, care să reflecte identitatea și valorile brandului clientului nostru, contribuind astfel la creșterea și succesul lor online.
+                        </div>
+                    </div>
+                    <div class="service-card">
+                        <h3 class="service-title">IT Support</h3>
+                        <div class="service-description">
+                            Suntem recunoscuți pentru serviciile noastre de suport IT datorită competenței noastre tehnice, răspunsului rapid și abordării proactivă în rezolvarea problemelor tehnice. Echipa noastră de specialiști IT are o vastă experiență în gestionarea și rezolvarea diverselor probleme legate de infrastructura IT, rețele, securitate cibernetică și suport software. Ne angajăm să oferim asistență promptă și eficientă clienților noștri, indiferent de complexitatea sau natura problemei lor. Prin monitorizarea constantă a sistemelor și implementarea măsurilor preventive, suntem dedicați să menținem operațiunile clienților noștri în funcțiune fără întreruperi și să le oferim un mediu IT sigur și eficient.
+                        </div>
+                    </div>
+            </div>
+            </section>
+            <!-- End services section -->
+
+            <!-- Start projects section -->
+
+            <section class="projects" id="projects">
+                <h2 class="section-title">Proiecte</h2>
+                <p class="section-subtitle">
+                    Am ales ca mai departe sa va prezentam primul si ultimul nostru proiect, pentru a observa evolutia Vortex Interactive Company.
+                </p>
+                <div class="container">
+
+                    <div class="project-card">
+                        <a href="https://restaurantlacosta.ro/" class="project-link" target="_blank">
+                            <img src="./images/LACOSTA.png" alt="site de prezentare hotel">
+                            <div class="project-overlay">
+                                <span>Deschide proiectul</span>
+                            </div>
+                        </a>
+                        <div class="project-details">
+                            <h3 class="project-title">Site de prezentare restaurant</h3>
+                            <p class="project-description">Primul nostru proiect, a fost realizarea unui site pentru restaurantul La Costa din Slobozia, lucru ce ne-a luat undeva la 1 luna si jumatate pentru finalizarea acestuia.</p>
+
+                        </div>
+                    </div>
+
+                    <div class="project-card">
+                        <a href="https://hotel-central.com.ro/" class="project-link" target="_blank">
+                            <img src="./images/central.jpg" alt="site de prezentare restaurant">
+                            <div class="project-overlay">
+                                <span>Deschide proiectul</span>
+                            </div>
+                        </a>
+                            <div class="project-details">
+                                <h3 class="project-title">Site de prezentare hotel</h3>
+                                <p class="project-description">Pentru cel mai recent proiect al nostru, am pornit la drum cu site-ul celor de la Hotel Central Slobozia, unde in nici mai mult nici mai putin de 1 saptamana am reusit sa il finalizam.</p>
+    
+                            </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- End projects section -->
+
+            <!-- Start team section -->
+                <section class="team" id="team">
+                    <h2 class="section-title"></h2>
+                    <p class="section-subtitle">Membrii echipei Vortex Interactive Company:</p>
+                    <div class="container">
+                        <div class="team-member">
+                            <img src="./images/imagine6.jpg" alt="Stoica David Daniel">
+                            <h3>Stoica David Daniel</h3>
+                            <p class="role">UI/UX Designer</p>
+                            <ul class="member-socials">
+                                <li>
+                                    <a href="https://facebook.com" target="_blank">
+                                        <i class="fa-brands fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://linkein.com" target="_blank">
+                                        <i class="fa-brands fa-linkedin-in"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="team-member">
+                            <img src="./images/imagine3.jpg" alt="Iordache David Mihai">
+                            <h3>Iordache David Mihai</h3>
+                            <p class="role">Frontend Developer</p>
+                            <ul class="member-socials">
+                                <li>
+                                    <a href="https://facebook.com" target="_blank">
+                                        <i class="fa-brands fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://linkedin.com" target="_blank">
+                                        <i class="fa-brands fa-linkedin-in"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="team-member">
+                            <img src="./images/imagine5.jpg" alt="Popa Andrei">
+                            <h3>Popa Andrei</h3>
+                            <p class="role">Backend Developer</p>
+                            <ul class="member-socials">
+                                <li>
+                                    <a href="https://facebook.com" target="_blank">
+                                        <i class="fa-brands fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://linkein.com" target="_blank">
+                                        <i class="fa-brands fa-linkedin-in"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            <!-- End team section -->
+
+            <!-- Start contact section -->
+                <section class="contact" id="contact">
+                    <h2 class="section-title">Contact</h2>
+                    <p class="section-subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, repellat.</p>
+
+                    <div class="container">
+                        <form class="contact-form">
+                            <input id="fullname" type="text" name="fullname" placeholder="Nume si prenume"/>
+                            <div class="form-group">
+                                <input type="email" name="email" id="email" placeholder="Adresa de email"/>    
+                            </div> 
+                            <div class="form-group form-message"> 
+                                <textarea name="message" id="mesagge" cols="30" rows="10" placeholder="Mesaj"></textarea>
+                            </div>
+                            <button class="btn-primary btn-submit" type="submit">Trimite mesajul</button>
+                        </form>
+                    </div>
+                </section>
+            <!-- End contact section -->
+        </main>
+        <!-- End main section -->
+
+        <!-- Start footer section -->
+        <footer>
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright 2023. Toate drepturile sunt rezervate
+                </div>
+
+                <ul class="social-items">
+                    <li class="social-items">
+                        <a href="https://facebook.com" target="_blank">
+                            <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                    </li>
+                    <li class="social-items">
+                        <a href="https://facebook.com" target="_blank">
+                            <i class="fa-brands fa-linkedin-in"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+        <!-- End footer section -->
+        <!-- <i class="fa-solid fa-bars"></i> -->
+        <script src="script1.js"></script>
+        <script 
+            src="https://kit.fontawesome.com/fa63d19205.js" 
+            crossorigin="anonymous"
+        ></script>
+    </body>
+</html>
